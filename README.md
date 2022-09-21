@@ -1,3 +1,6 @@
+# Introduction
+This is a simple project that shows how to implement Apollo-client in React, it also shows how to implement optimization with dynamic imports, taking advantage of React's lazy and suspense.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
